@@ -1,0 +1,19 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "A simple chat room maked with love and NodeJS, Express, Socket.io and Materialize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvadorAlfocea/chatio.git"
+  },
+  "author": "Salvador Alfocea Dominguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalvadorAlfocea/chatio/issues"
+  },
+  "homepage": "https://github.com/SalvadorAlfocea/chatio#readme"
+}
